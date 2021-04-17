@@ -2,7 +2,7 @@
 - 👀 I'm interested in anything I interested.
 - 🌱 I'm currently learning computer vision and deep learning.
 - 💞️ I'm looking to collaborate on ...
-- 📫 How to reach me ->zqliuzhaoyang@163.com
+- 📫 How to reach me
 
 <!---
 AnnLIU15/AnnLIU15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
