@@ -3,8 +3,8 @@
 - 🌱 I'm currently learning Deep Learning, reinforcement learning, federated learning and CPP.
 - 💞️ I'm looking to collaborate on ...
 - 📫 How to reach me: 
-> * liuzhy@mail2.sysu.edu.cn 
-> * zqliuzhaoyang@gmail.com
+- > * liuzhy@mail2.sysu.edu.cn 
+- > * zqliuzhaoyang@gmail.com
 
 <!---
 AnnLIU15/AnnLIU15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
