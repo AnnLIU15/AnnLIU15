@@ -1,6 +1,6 @@
 - 👋 Hi, I'm ZhaoY
 - 👀 I'm interested in anything I interested.
-- 🌱 I'm currently learning Deep Learning, reinforcement learning, federated learning and CPP.
+- 🌱 I'm currently learning reinforcement learning, federated learning and meta learning.
 - 📫 How to reach me: 
 - > * liuzhy@mail2.sysu.edu.cn or zqliuzhaoyang@gmail.com
 
